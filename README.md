@@ -1,11 +1,11 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right" width="50%">
 
 
-<h1> Hi there, I´m Rafael! 👋 </h1>
+<h1> Hi there, I´m Pedro Lucas! 👋 </h1>
 
 <br>
 
-I'm a programming enthusiast, currently working with Flutter.</b>
+I'm a programming enthusiast, currently working as WebDev.</b>
 
 <hr width="44.5%">
 
