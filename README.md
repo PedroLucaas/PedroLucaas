@@ -5,7 +5,7 @@
 
 <br>
 
-I'm a programming enthusiast, currently working as WebDev.</b>
+I'm a programming enthusiast, currently working with C++</b>
 
 <hr width="44.5%">
 
