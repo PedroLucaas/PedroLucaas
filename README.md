@@ -1,24 +1,63 @@
-### Hi, I'm Pedro Alves.
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31shvonbh2hfxvjqnd557hdbxv3u) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-alves-49b07b221/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedroo.zz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/    )
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-study-4024615-3328754.png" align="right" width="50%">
 
 
-![Pedro Lucaas GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolucaas&show_icons=true&theme=radical)
+<h1> Hi there, I´m Rafael! 👋 </h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucaas&layout=compact)
+<br>
 
-## Most used languages
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
+I'm a programming enthusiast, currently working with Flutter.</b>
+
+<hr width="44.5%">
+
+<h3>🔧Languages: </h3>
+<p>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"  width=4% height=4%>&nbsp;&nbsp;<br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"  width=4% height=4%>&nbsp;&nbsp;
+          
+<hr width="42%">
+ 
+</p>
+<h3>🛠️Tools: </h3>
+<p>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width=4% height=4%>&nbsp;&nbsp;<br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+</p>
+
+<hr width="30%">
+
+<h3>🔎Find me: </h3>
+<p>
+<a href="https://www.linkedin.com/in/pedrolucaas/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="in/marques960" height=4% width=4% /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/pedroo.zz/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" height=4% width=4% /></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/31shvonbh2hfxvjqnd557hdbxv3u" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="in/alvez" height=4% width=4% /></a>&nbsp;&nbsp;
+
+</p>
+          
+<hr width="25%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pedrolucaas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right" width="50%">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31shvonbh2hfxvjqnd557hdbxv3u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
